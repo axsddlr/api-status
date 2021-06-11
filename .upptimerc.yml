@@ -2,7 +2,6 @@
 owner: Rehkloos # Your GitHub username
 repo: api-status # Your GitHub repository name
 
-# Add your sites here
 sites:
   - name: General API
     url: https://api.rehkloos.com
@@ -11,22 +10,12 @@ sites:
       - 204
       - 404
       - 429
-    
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
 
 status-website:
-  theme: dark
-  # Add your custom domain below, or remove the next line if you don't have a domain
-#   cname: status.henrikdev.xyz
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+#   cname: demo.upptime.js.org
+  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: API Status
   introTitle: 

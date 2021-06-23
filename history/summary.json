@@ -1,7 +1,7 @@
 [
   {
     "name": "General API",
-    "url": "https://api.rehkloos.com",
+    "url": "https://api.rehkloos.com/openapi.json",
     "icon": "https://favicons.githubusercontent.com/api.rehkloos.com",
     "slug": "general-api",
     "status": "up",
@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 370,
+    "timeDay": 375,
     "timeWeek": 377,
     "timeMonth": 384,
     "timeYear": 384,

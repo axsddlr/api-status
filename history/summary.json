@@ -4,17 +4,19 @@
     "url": "https://api.rehkloos.com/",
     "icon": "https://favicons.githubusercontent.com/api.rehkloos.com",
     "slug": "general-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 406,
-    "timeWeek": 396,
-    "timeMonth": 390,
-    "timeYear": 390,
-    "dailyMinutesDown": {}
+    "time": 388,
+    "timeDay": 336,
+    "timeWeek": 385,
+    "timeMonth": 388,
+    "timeYear": 388,
+    "dailyMinutesDown": {
+      "2021-06-29": 0
+    }
   }
 ]

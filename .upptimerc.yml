@@ -4,7 +4,7 @@ repo: api-status # Your GitHub repository name
 
 sites:
   - name: General API
-    url: https://api.rehkloos.com/
+    url: https://api.axsddlr.xyz/
     expectedStatusCodes:
       - 200
       - 204

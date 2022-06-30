@@ -6,23 +6,22 @@
     "slug": "general-api",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "94.61%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.47%",
     "time": 269,
-    "timeDay": 193,
-    "timeWeek": 225,
-    "timeMonth": 267,
+    "timeDay": 184,
+    "timeWeek": 219,
+    "timeMonth": 266,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2022-06-29": 78,
+      "2022-06-29": 71,
       "2022-06-21": 26,
       "2021-11-24": 43,
       "2021-10-01": 21,
       "2021-09-22": 27,
-      "2021-07-01": 1184,
-      "2021-06-30": 1440
+      "2021-07-01": 1184
     }
   }
 ]

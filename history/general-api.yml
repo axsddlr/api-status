@@ -1,7 +1,7 @@
 url: https://api.axsddlr.xyz/
-status: up
-code: 200
-responseTime: 236
-lastUpdated: 2022-06-30T08:08:39.735Z
+status: down
+code: 403
+responseTime: 116
+lastUpdated: 2022-06-30T08:35:42.389Z
 startTime: Fri Jun 11 2021 00:20:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
